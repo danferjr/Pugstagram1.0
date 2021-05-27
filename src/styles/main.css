@@ -40,5 +40,16 @@ h1 {
 }
 
 .Header h1 {
-  color: black;
+  background: -webkit-linear-gradient(pink,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    color: pink;
+}
+.Header_nav--heart {
+  width: 20px;
+  height: 20px;
+}
+.Header_nav--user {
+  width: 25px;
+  height: 25px;
 }
