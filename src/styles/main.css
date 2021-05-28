@@ -44,17 +44,11 @@ h1 {
 }
 
 .Header h1 {
-  background: -webkit-linear-gradient(#fed373 4%, #f15245 4%, #d92e7f 62%,
+  background: -webkit-linear-gradient(#fed373 4%, #f15245 30%, #d92e7f 62%,
   #9b36b7 85%,#515ecf);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  
-    
+  -webkit-text-fill-color: transparent;   
 }
-
-  background-color: radial-gradient(circle at 33% 100%,#fed373 4%, #f15245 4%, #d92e7f 62%,
-  #9b36b7 85%,#515ecf  );
-
 .Header_nav--heart {
   width: 20px;
   height: 20px;
